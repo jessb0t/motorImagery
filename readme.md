@@ -2,6 +2,6 @@
 
 #### Neuromatch Computational Neuroscience 2022
 
-This repository contains...
+This repository contains....
 
 TBD!
