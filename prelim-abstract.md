@@ -1,0 +1,16 @@
+### Preliminary Abstract
+Prior work has identified modulation of the phase amplitude envelope during voluntary motor movements, specifically with a decrease in relative power in the beta band that corresponds with sustained movement and an increase in relative power in high gamma that correlates with the dynamic features of a movement (e.g., individual finger movements or walking gait).  The existence of such movement-related phase amplitude modulations has not been demonstrated with imagined motor movements.  We hypothesized that imagined movement will demonstrate similar amplitude modulations as overt movement, albeit with an attenuated response in gamma band across relevant motor areas.
+
+To support this hypothesis, we used the Miller ECoG data of motor imagery, which contains neural data on eight subjects with epilepsy who underwent craniotomy for placement of subdural electrode arrays for invasive seizure monitoring via electrocortigraphy (ECoG) during treatment of medically refractory epilepsy. Array location and duration of implantation were determined by clinical criteria alone.  Of these subjects, five underwent mapping of the motor cortex with electrical stimulation.  Subjects participated in two tasks involving overt or imagined movement of the hand and tongue with simultaneously ECoG recording. Dataglove/EMG was utilized to ensure no movement during imagined tasks.
+
+The ECoG signal was filtered into six frequency bands (β1 = 12-18 Hz, β2 = 18-24 Hz, β3 = 24-30 Hz, γ1 = 30-36 Hz, γ2 = 36-42 Hz, γH = 70-150 Hz). Event related synchrony and desynchronization (ERS/ERD) measurements were determined by relative amplitude changes in respective power spectra during rest and movement.  Simulated motor movements were utilized to measure movement related phase amplitude modulations across the selected frequency bands.
+
+Movement-related phase amplitude modulations may serve as a more refined measure of movement intent, which can be used as improved control signals for brain-computer interface applications.  It may additionally enhance our knowledge of subcortical-cortical and cortico-cortical communication in motor control to serve as a biomarker in health and disease.
+
+
+##### References:
+Miller, K. J., Schalk, G., Fetz, E. E., den Nijs, M., Ojemann, J. G., & Rao, R. P. N. (2010). Cortical activity during motor execution, motor imagery, and imagery-based online feedback. Proceedings of the National Academy of Sciences, 107(9), 4430–4435. https://doi.org/10.1073/pnas.0913697107
+
+Seeber, M., Scherer, R., Wagner, J., Solis-Escalante, T., & Müller-Putz, G. R. (2014). EEG beta suppression and low gamma modulation are different elements of human upright walking. Frontiers in Human Neuroscience, 8. https://doi.org/10.3389/fnhum.2014.00485
+
+Unterweger, J., Seeber, M., Zanos, S., Ojemann, J. G., & Scherer, R. (2020). ECoG Beta Suppression and Modulation During Finger Extension and Flexion. Frontiers in Neuroscience, 14, 35. https://doi.org/10.3389/fnins.2020.00035
