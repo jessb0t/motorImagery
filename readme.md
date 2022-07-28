@@ -11,7 +11,8 @@ To investigate this hypothesis, we reanalyzed electrocortigraphy (ECoG) recordin
 Movement-related phase amplitude modulations may serve as a more refined measure of movement intent, which can be used as improved control signals for brain-computer interface applications. It may additionally enhance our knowledge of subcortical-cortical and cortico-cortical communication in motor control to serve as a biomarker in health and disease.
 
 
-#### Repository Contents
-
+#### Summary
+This group project was completed during NMA 2022 (July 11-29). See `project-summary.pdf` for details!
 
 #### Contributors
+Brenda Qiu, Jessica Alexander, Juan Pablo Botero, Kurt Lehner, Lavanya M K
