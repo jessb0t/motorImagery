@@ -1,0 +1,8 @@
+S1=JC
+S2=FP
+S3=JM
+S4=RH
+S5=RR
+S6= Al
+S7=CHF
+S8=HH
