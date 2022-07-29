@@ -1,6 +1,6 @@
-## Neuromatch 2022
+## Motor power modulations during imagined movements
 
-#### Motor power modulations during imagined movements
+#### Abstract
 
 Neural activity patterns shift in human motor cortex before and during voluntary movements. Prior work has demonstrated a decrease in relative power in the beta frequency band during sustained movement. Likewise, an increase in relative power in the high gamma frequency band has been found to correlate with the dynamic features of a movement, such as individual finger flexion. These rhythms may indicate the presence of neuronal population dynamics involved in initiating movement.
 
@@ -12,7 +12,7 @@ Movement-related phase amplitude modulations may serve as a more refined measure
 
 
 #### Summary
-This group project was completed during NMA 2022 (July 11-29). See `project-summary.pdf` for details!
+This group project was completed during Neuromatch 2022 (July 11-29). See `project-summary.pdf` for details!
 
 #### Contributors
 Brenda Qiu, Jessica Alexander, Juan Pablo Botero, Kurt Lehner, Lavanya M K
